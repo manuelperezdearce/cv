@@ -4,7 +4,7 @@ export default function Experience_1() {
             <h3>BACKOFFICE</h3>
             <p>Haken Chile</p>
             <p>ene 2013 - mar 2015</p>
-            <ul>
+            <ul className="list-disc">
                 <li>
                     Responsable de contabilidad diaria mediante sistemaERP.
                 </li>
